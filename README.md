@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/liphuan/DevOpsBuildLearn/_apis/build/status/lipinght.mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/liphuan/DevOpsBuildLearn/_build/latest?definitionId=3&branchName=main)
 
 # Contributing
 
